@@ -43,10 +43,4 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/8_Projects-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/5_Languages-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/ML_·_Web_·_Games_·_Mobile-00C853?style=flat-square" />
-</p>
-
 <p align="center"><sub> The best way to learn is to build </sub></p>
