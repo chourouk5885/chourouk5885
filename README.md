@@ -32,7 +32,21 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chourouk5885&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chourouk5885&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/8_Projects-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/5_Languages-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML_·_Web_·_Games_·_Mobile-00C853?style=flat-square" />
+</p>
+
+<p align="center"><sub> The best way to learn is to build </sub></p>
