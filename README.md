@@ -1,6 +1,6 @@
 <h1 align="center">Fadoua Chourouk Djekaoua</h1>
 
-<p align="center">CS & AI · ENSIA · Python · React · Java · Machine Learning</p>
+<p align="center">CS & AI · Python · React · Java · Machine Learning</p>
 
 <p align="center">
   <a href="mailto:djekaouafadoua@gmail.com"><img src="https://img.shields.io/badge/djekaouafadoua@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
